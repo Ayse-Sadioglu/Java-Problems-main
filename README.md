@@ -1,1 +1,2 @@
-# Java-Problems-
+# Java-Problems
+Various java problems and algorithms
